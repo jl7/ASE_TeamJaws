@@ -1,4 +1,4 @@
-KEY = "2c3f9172-2656-4944-aa61-f3212f9a60a3"
+KEY = "KEY"
 import requests # not native, need to install
 import json
 
