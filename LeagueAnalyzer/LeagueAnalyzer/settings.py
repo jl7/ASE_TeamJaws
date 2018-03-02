@@ -17,7 +17,7 @@ BASE_DIR = "/usr/local/mysql/data/LeagueChampions"
 # See https://docs.djangoproject.com/en/1.7/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'boc@ptv=gebdu!6gpde9*g_gm#ky@*ne=gf1a5!6g21en4na&&'
+SECRET_KEY = 'KEY'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
